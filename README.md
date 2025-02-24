@@ -1,4 +1,4 @@
-<h1 align="center">👋🏼 Hi there, I'm Geancarlo Rivera!</h1>
+<h2 align="center">👋🏼 Hi there, I'm Geancarlo Rivera!</h2>
 
 <h3 align="center">💻 Software Engineer | Passionate about technology, innovation and gaming 🎮👾</h3>
 
@@ -25,4 +25,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
 </div>
 
-<h3 align="center">🚀 Always learning and building new things! 🚀</h3>
+<h5 align="center">🚀 Always learning and building new things! 🚀</h3>
