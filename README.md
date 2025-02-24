@@ -25,4 +25,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
 </div>
 
-🚀Always learning and building new things!🚀
+<h3 align="right">🚀Always learning and building new things!🚀</h3>
