@@ -1,6 +1,6 @@
 <h1 align="center">👋🏼 Hi there, I'm Geancarlo Rivera!</h1>
 
-<h3 align="center">💻 Software Engineer | Passionate about technology, innovation, and gaming 🎮👾</h3>
+<h3 align="center">💻 Software Engineer | Passionate about technology, innovation and gaming 🎮👾</h3>
 
 ***
 
