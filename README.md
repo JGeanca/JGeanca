@@ -2,6 +2,8 @@
 
 <h3 align="center">💻 Software Engineer | Passionate about technology, innovation, and gaming 🎮👾</h3>
 
+***
+
 ### 🚀 Technologies & Tools  
 
 <div align="center">
@@ -23,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
 </div>
 
----
 
 ### 🌍 Connect with me  
 
@@ -42,6 +43,5 @@
   </a>
 </div>
 
----
 
 🚀Always learning and building new things!🚀
