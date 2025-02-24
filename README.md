@@ -25,23 +25,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
 </div>
 
-
-### 🌍 Connect with me  
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/geancarlo-rivera-722155282" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Gean_999" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" alt="Twitter" />
-  </a>
-  <a href="https://t.me/muslitoKimby" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="Telegram" />
-  </a>
-  <a href="mailto:geancarlorivera831@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
-  </a>
-</div>
-
-
 🚀Always learning and building new things!🚀
